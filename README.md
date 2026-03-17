@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> This project is now deprecated in favor of the [Edge.js JS runtime](https://edgejs.org/), which can run any Node.js apps sandboxed with Wasmer.
+
 <div align="center">
   <a href="https://github.com/wasmerio/winterjs" target="_blank">
     <picture>
